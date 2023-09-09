@@ -1,4 +1,4 @@
-// import { range } from "./utils";
+import { range } from "./utils";
 
 function StarRating({ rating }) {
   return (
